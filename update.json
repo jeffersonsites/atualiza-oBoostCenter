@@ -3,6 +3,7 @@
   "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.0/BoostCenter.exe",
 
   "notes": [
+    "Novo sistema de atualização automática direto do app",
     "Novo sistema de licenciamento online",
     "Revogação remota de licenças",
     "Suporte a licenças temporárias",
