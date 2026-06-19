@@ -1,16 +1,19 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.1/BoostCenter.exe",
+  "version": "1.7.2",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.2/BoostCenter.exe",
   "notes": [
-    "Novo sistema de atualização automática",
-    "Updater integrado ao aplicativo",
-    "revogação de licença em poucos segundos",
-    "Botão \"Forçar Update\"",
-    "Nova seção \"✦ Novidades\"",
-    "Melhorias na interface",
-    "Correções de bugs",
-    "Otimização do sistema de logs",
-    "Melhor gerenciamento da pasta AppData",
-    "Padronização dos botões com cursor interativo."
+    "Nova ferramenta de Limpeza Personalizada",
+    "Escolha quais itens deseja limpar individualmente",
+    "Suporte para limpeza de arquivos temporários",
+    "Suporte para limpeza de cache DNS",
+    "Suporte para limpeza da lixeira do Windows",
+    "Suporte para limpeza de arquivos Prefetch",
+    "Suporte para limpeza do cache de miniaturas",
+    "Melhorias na seção \"✦ Novidades\"",
+    "Ajustes visuais e reorganização da interface",
+    "Padronização dos cursores interativos",
+    "Removida a antiga otimização de memória RAM",
+    "Melhorias no desempenho geral",
+    "Correções de bugs e melhorias de estabilidade"
   ]
 }
