@@ -1,16 +1,4 @@
 {
   "version": "1.7.1",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.1/BoostCenter.exe",
-  "notes": [
-    "Novo sistema de atualização automática",
-    "Updater integrado ao aplicativo",
-    "revogação de licença em poucos segundos",
-    "Botão \"Forçar Update\"",
-    "Nova seção \"✦ Novidades\"",
-    "Melhorias na interface",
-    "Correções de bugs",
-    "Otimização do sistema de logs",
-    "Melhor gerenciamento da pasta AppData",
-    "Padronização dos botões com cursor interativo."
-  ]
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.1/BoostCenter.exe"
 }
