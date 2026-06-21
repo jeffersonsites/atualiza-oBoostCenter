@@ -1,22 +1,19 @@
 {
   "version": "1.7.3",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.3/BoostCenter.exe",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.4/BoostCenter.exe",
   "notes": [
     "Novo resumo inteligente no aviso de atualização",
-    "As notificações de nova versão exibem apenas as principais novidades",
-    "Botão \"✦ Novidades\" aprimorado com histórico completo de versões",
-    "Melhor organização das notas de atualização",
-    "Melhor integração entre o sistema de atualização automática e a seção \"✦ Novidades\"",
-    "Otimização do fluxo de download e instalação",
+    "Melhorias na seção \"✦ Novidades\"",
     "Refinamentos visuais no painel principal",
-    "Melhor alinhamento e organização da interface",
-    "Melhor legibilidade das mensagens e notificações",
+    "Melhor organização das notificações",
+    "Removida a antiga otimização de memória RAM",
+    "Escolha quais itens deseja limpar individualmente",
+    "Otimizações de desempenho e estabilidade",
+    "Padronização dos cursores interativos",
     "Ajustes na consistência visual dos botões",
-    "Melhorias gerais de desempenho",
-    "Ajustes internos para maior estabilidade",
-    "Correções relacionadas ao sistema de notificações",
     "Melhor tratamento de erros durante atualizações",
-    "Maior compatibilidade entre versões anteriores e o sistema de update",
-    "Correções de bugs e melhorias de estabilidade"
+    "Maior compatibilidade entre versões anteriores",
+    "Melhorias internas no sistema de atualização",
+    "Correções de bugs gerais"
   ]
 }
