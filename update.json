@@ -1,19 +1,18 @@
 {
-  "version": "1.7.4",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.4/BoostCenter.exe",
+  "version": "1.7.5",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.5/BoostCenter.exe",
   "notes": [
-    "Novo resumo inteligente no aviso de atualização",
-    "Melhorias na seção \"✦ Novidades\"",
+    "Nova ferramenta Restaurar Rede",
+    "Correção automática de problemas de conexão",
+    "Removida a função Prioridade Jogos",
     "Refinamentos visuais no painel principal",
-    "Melhor organização das notificações",
-    "Removida a antiga otimização de memória RAM",
-    "Escolha quais itens deseja limpar individualmente",
-    "Otimizações de desempenho e estabilidade",
     "Padronização dos cursores interativos",
-    "Ajustes na consistência visual dos botões",
     "Melhor tratamento de erros durante atualizações",
-    "Maior compatibilidade entre versões anteriores",
+    "Escolha quais itens deseja limpar individualmente",
+    "Melhor organização das notificações",
+    "Melhor organização do painel principal",
     "Melhorias internas no sistema de atualização",
     "Correções de bugs gerais"
+    
   ]
 }
