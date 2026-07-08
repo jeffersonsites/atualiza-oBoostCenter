@@ -1,15 +1,14 @@
 {
-  "version": "1.7.6",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.6/BoostCenter.exe",
+  "version": "1.7.7",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.7/BoostCenter.exe",
   "notes": [
-    "Nova janela personalizada para ✦ Novidades",
-    "Visual renovado para as notas de atualização",
-    "Melhor tratamento de erros durante atualizações",
-    "Removida a função Prioridade Jogos",
-    "Melhorias na tela de solicitação de licença",
-    "Refinamentos na interface do aplicativo",
+    "Nova janela personalizada para atualizações",
+    "Adicionados os botões Atualizar Agora, Lembrar Mais Tarde e Ignorar Esta Versão",
+    "Novo sistema de janelas personalizadas do BoostCenter",
+    "Licenças de teste agora exibem automaticamente a data de expiração",
+    "Melhorias visuais e padronização da interface",
+    "Nova janela personalizada para erro de conexão",
     "Correções de bugs e otimizações de desempenho",
-    "Correções de bugs gerais",
     "@jeff012zs, em breve terá mais novidades..."
   ]
 }
