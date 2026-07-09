@@ -3,7 +3,7 @@
   "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.8/BoostCenter.exe",
   "notes": [
     "Novo painel 'Minha Licença' totalmente reformulado.",
-    "Adicionado botão Minha Licença na interface principal.",
+    "Adicionado botão '➜ LICENÇA' na interface principal.",
     "Novo sistema de informações da licença Premium e Trial.",
     "Botão Forçar Update agora detecta novas versões automaticamente.",
     "Nova janela personalizada para atualização manual.",
