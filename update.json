@@ -1,17 +1,17 @@
 {
-  "version": "1.7.8",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.8/BoostCenter.exe",
+  "version": "1.7.9",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.9/BoostCenter.exe",
   "notes": [
-    "Novo painel 'Minha Licença' totalmente reformulado.",
-    "Adicionado botão '➜ LICENÇA' na interface principal.",
-    "Novo sistema de informações da licença Premium e Trial.",
-    "Botão Forçar Update agora detecta novas versões automaticamente.",
-    "Nova janela personalizada para atualização manual.",
-    "Mensagens do sistema de atualização totalmente personalizadas.",
-    "Tooltips adicionados aos novos botões da interface.",
-    "Melhor alinhamento e organização dos controles.",
-    "Refinamentos visuais em diversas janelas do BoostCenter.",
-    "Correções internas, otimizações e melhorias de estabilidade.",
-    "@jeff012zs, em breve mais novidades..."
+    "Nova tela Premium para ativação de licença com visual renovado.",
+    "Adicionado botão Minha Licença com informações detalhadas da licença.",
+    "Agora é possível copiar a chave de ativação diretamente pelo painel.",
+    "Tela Minha Licença agora exibe informações do computador e do Windows.",
+    "Licenças Trial agora mostram a quantidade de dias restantes.",
+    "Botão Forçar Update agora identifica quando existe uma nova versão disponível.",
+    "Nova janela personalizada para confirmação do Forçar Update.",
+    "Adicionados efeitos sonoros na ativação e revogação da licença.",
+    "Diversos refinamentos visuais e melhorias de interface.",
+    "Correções de bugs e otimizações gerais de desempenho.",
+    "Obrigado por utilizar o BoostCenter! 💚 Em breve teremos ainda mais novidades, melhorias e novos recursos."
   ]
 }
