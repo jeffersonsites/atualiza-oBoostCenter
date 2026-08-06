@@ -1,6 +1,6 @@
 {
-  "version": "1.7.9.1",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.7.9.1/BoostCenter.exe",
+  "version": "1.7.10",
+  "url": "",
   "notes": [
     "Corrigido erro ao copiar a chave da licença e fechar a janela Minha Licença.",
     "Corrigido o funcionamento da licença em modo offline.",
