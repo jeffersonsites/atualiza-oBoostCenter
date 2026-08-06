@@ -2,14 +2,14 @@
   "version": "1.7.10",
   "url": "",
   "notes": [
-    "Corrigido erro ao copiar a chave da licença e fechar a janela Minha Licença.",
-    "Corrigido o funcionamento da licença em modo offline.",
-    "Adicionado o arquivo local license.dat para armazenar as informações da licença.",
-    "Agora o BoostCenter mantém corretamente o tipo, status e expiração da licença mesmo sem internet.",
-    "Corrigido erro ao acessar Forçar Update sem conexão com a internet.",
-    "Corrigido erro ao acessar Novidades sem conexão com a internet.",
-    "Agora o programa informa para verificar a conexão e tentar novamente quando necessário.",
-    "Melhorias na estabilidade, confiabilidade e otimizações internas.",
-    "Obrigado por utilizar o BoostCenter! 💚 Em breve teremos ainda mais novidades, melhorias e novos recursos."
-  ]
+    "notes": [
+  "Corrigido o sistema de validação de licenças Premium e Trial.",
+  "Corrigida a exibição da data de expiração das licenças temporárias.",
+  "Agora o BoostCenter bloqueia corretamente o acesso quando a licença for revogada, removida ou expirada.",
+  "Corrigido o tratamento de HWID, exibindo mensagens específicas para licenças vinculadas a outro computador.",
+  "Melhorias no gerenciamento de licenças e na comunicação com a API.",
+  "Adicionados novos recursos ao painel administrativo para gerenciamento de Keys.",
+  "Melhorias na estabilidade, segurança e confiabilidade do sistema de licenciamento.",
+  "Obrigado por utilizar o BoostCenter! 💚 Em breve teremos ainda mais novidades, melhorias e novos recursos."
+]
 }
