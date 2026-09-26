@@ -1,15 +1,8 @@
 {
-  "version": "1.7.10",
-  "url": "",
+  "version": "1.8.0",
+  "minimumVersion": "1.8.0",
+  "url": "SEU_LINK_DA_ATUALIZACAO",
   "notes": [
-    "Corrigido o sistema de validação de licenças Premium e Trial.",
-  "Corrigida a exibição da data de expiração das licenças temporárias.",
-  "Agora o BoostCenter bloqueia corretamente o acesso quando a licença for revogada, removida ou expirada.",
-  "Corrigido o tratamento de HWID, exibindo mensagens específicas para licenças vinculadas a outro computador.",
-  "Melhorias no gerenciamento de licenças e na comunicação com a API.",
-  "Adicionados novos recursos ao painel administrativo para gerenciamento de Keys.",
-  "Melhorias na estabilidade, segurança e confiabilidade do sistema de licenciamento.",
-  "Obrigado por utilizar o BoostCenter! 💚 Em breve teremos ainda mais novidades, melhorias e novos recursos.",
-    "📸 Instagram do desenvolvedor: @jeff012zs"
+    "Teste de atualização obrigatória"
   ]
 }
