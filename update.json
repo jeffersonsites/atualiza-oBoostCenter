@@ -1,8 +1,11 @@
 {
-  "version": "1.7.11",
-  "minimumVersion": "1.7.11",
-  "url": "SEU_LINK_DA_ATUALIZACAO",
+  "version": "1.8.0",
+  "minimumVersion": "1.7.10",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.8.0/BoostCenter.exe",
   "notes": [
-    "Teste de atualização obrigatória"
+    "Novo instalador de dependências",
+    "Sistema de atualização obrigatória",
+    "Melhorias no sistema de atualização",
+    "Correções e melhorias gerais"
   ]
 }
