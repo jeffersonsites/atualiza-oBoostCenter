@@ -1,14 +1,14 @@
 {
-  "version": "1.8.0",
-  "minimumVersion": "1.8.0",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.8.0/BoostCenter.exe",
+  "version": "1.8.1",
+  "minimumVersion": "1.8.1",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.8.1/BoostCenter.exe",
   "notes": [
-  "Novo instalador de dependências para jogos e aplicativos",
-  "O antigo Modo Gamer foi substituído pelo Instalador de Dependências",
-  "Novo sistema de atualização obrigatória",
-  "Melhorias no sistema de atualização",
-  "Correções e melhorias gerais",
-  "EM BREVE TERÁ AINDA MAIS NOVIDADES...",
+  "Proteção do cache de atualização contra alterações simples.",
+    "Prazo offline de até 3 dias para a autorização local.",
+    "Proteção dos registros locais e detecção de alterações no relógio.",
+    "Nova janela dedicada para Informações do PC.",
+    "Nova interface para Limpeza Personalizada.",
+    "Melhorias no mecanismo de atualização obrigatória.",
   "by Jeff❤️"
 ]
 }
