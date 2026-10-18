@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
-  "minimumVersion": "1.8.1",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.8.1/BoostCenter.exe",
+  "version": "1.8.2",
+  "minimumVersion": "1.8.2",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.8.2/BoostCenter.exe",
   "notes": [
   "Proteção do cache de atualização contra alterações simples.",
     "Prazo offline de até 3 dias para a autorização local.",
