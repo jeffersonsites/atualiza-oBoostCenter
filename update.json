@@ -1,14 +1,13 @@
 {
-  "version": "1.8.2",
+  "version": "2.0.0",
   "minimumVersion": "1.8.2",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/1.8.2/BoostCenter.exe",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/2.0.0/BoostCenter.exe",
   "notes": [
-  "Proteção do cache de atualização contra alterações simples.",
-    "Prazo offline de até 3 dias para a autorização local.",
-    "Proteção dos registros locais e detecção de alterações no relógio.",
-    "Nova janela dedicada para Informações do PC.",
-    "Nova interface para Limpeza Personalizada.",
-    "Melhorias no mecanismo de atualização obrigatória.",
-  "by Jeff❤️, obrigado a todos que utiliza meu app."
+  "Grande atualização: BoostCenter agora conta com uma segunda aba de ferramentas, ampliando as possibilidades de utilização.",
+    "Novo sistema de gerenciamento de licença: agora é possível trocar sua Key diretamente pelo painel.",
+    "Sistema de monitoramento de licença em tempo real, com verificação periódica enquanto o painel está aberto.",
+    "Revogação automática de licenças: chaves revogadas são identificadas durante a execução, sem necessidade de reiniciar o aplicativo.",
+    "Melhorias no gerenciamento de ferramentas e na experiência de utilização do painel.",
+    "by Jeff❤️, obrigado a todos que utilizam meu app."
 ]
 }
