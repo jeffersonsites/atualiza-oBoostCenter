@@ -1,7 +1,12 @@
 {
-  "version": "2.4.0",
-  "minimumVersion": "2.0.0",
-  "minimumSupportedVersion": "2.1.0",
-  "url": "SUA_URL_ATUAL",
-  "notes": ["Teste em tempo real"]
+  "version": "2.1.0",
+  "minimumVersion": "2.1.0",
+  "minimumSupportedVersion": "2.0.0",
+  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/2.1.0/BoostCenter.exe",
+  "notes": [
+    "Aprimoramentos no sistema de atualização.",
+    "Verificação em tempo real da versão mínima suportada.",
+    "Melhorias na segurança e confiabilidade.",
+    "Atualização manual aprimorada."
+  ]
 }
