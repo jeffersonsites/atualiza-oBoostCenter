@@ -1,7 +1,7 @@
 {
   "version": "2.4.0",
   "minimumVersion": "2.0.0",
-  "minimumSupportedVersion": "2.0.0",
+  "minimumSupportedVersion": "2.1.0",
   "url": "SUA_URL_ATUAL",
   "notes": ["Teste em tempo real"]
 }
