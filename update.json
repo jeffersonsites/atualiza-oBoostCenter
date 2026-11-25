@@ -1,7 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "2.4.0",
   "minimumVersion": "2.0.0",
-  "minimumSupportedVersion": "2.0.0",
-  "url": "https://github.com/jeffersonsites/atualiza-oBoostCenter/releases/download/2.0.0/BoostCenter.exe",
-  "notes": ["Teste de compatibilidade"]
+  "minimumSupportedVersion": "2.1.0",
+  "url": "URL_DA_SUA_RELEASE",
+  "notes": [
+    "Teste do minimumSupportedVersion"
+  ]
 }
